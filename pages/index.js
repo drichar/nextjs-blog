@@ -13,7 +13,11 @@ export default function Home({ allPostsData }) {
 			</Head>
 			<section className={utilStyles.headingMd}>
 				<p>
-					UX Engineer @ Pixwel 🏢 #TFBS Astronaut 🚀 No mud, no lotus 🌸 Ask me about kratom 🌿 #COYS 🌹
+					UX Engineer @ Pixwel 🏢 <br />
+					#TFBS Astronaut 🚀 <br />
+					No mud, no lotus 🌸 <br />
+					Ask me about kratom 🌿 <br />
+					#COYS 🌹
 				</p>
 				<p>
 					(This is a sample website - you’ll be building a site like this on{' '}
